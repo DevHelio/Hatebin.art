@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    color:red;
+}
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    background-color: black;
+}
+body h1 {
+    font-size: 2rem;
+    color: red;
+    margin: 1rem 0 1rem 0;
+}
